@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0a0db28d-2c58-4dd3-8815-c9f5c862ef6f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\apache-maven-3.6.3\maven-repo" />
+        <option name="mavenHome" value="E:/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="E:\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1e4xfWradAV13btEZbSQyLhmPKC" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/changgou-parent/changgou-service/changgou-service-goods/src/main/java/com/changgou/controller" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.3494253" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Program Files\Code\changgou\changgou-parent\changgou-service\changgou-service-goods\src\main\java\com\changgou\dao" />
+      <recent name="D:\Program Files\Code\changgou\changgou-parent\changgou-service" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Program Files\Code\changgou\changgou-parent\changgou-service\changgou-service-goods\src\main\java\com\changgou\controller" />
+      <recent name="D:\Program Files\Code\changgou\changgou-parent\changgou-service\changgou-service-goods\src\main\java\com\changgou\service\impl" />
+      <recent name="D:\Program Files\Code\changgou\changgou-parent\changgou-service\changgou-service-goods\src\main\java\com\changgou\service" />
+      <recent name="D:\Program Files\Code\changgou\changgou-parent\changgou-service-api\changgou-service-goods-api\src\main\java\com\changgou\goods\pojo" />
+      <recent name="D:\Program Files\Code\changgou\code-template" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="entity" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.changgou.service" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn -U idea:idea" />
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.CodeApplication">
+    <configuration name="CodeApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.CodeApplication" />
+      <module name="code-template" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="changgou-eureka" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.changgou.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.changgou.EurekaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="changgou-service-file" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.changgou.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.changgou.FileApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GoodsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="changgou-service-goods" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.changgou.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.changgou.GoodsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CodeApplication" />
+        <item itemvalue="Spring Boot.FileApplication" />
+        <item itemvalue="Spring Boot.GoodsApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0a0db28d-2c58-4dd3-8815-c9f5c862ef6f" name="Default Changelist" comment="" />
+      <created>1593594769977</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593594769977</updated>
+      <workItem from="1593594772042" duration="8614000" />
+      <workItem from="1593651843587" duration="541000" />
+      <workItem from="1593652408670" duration="255000" />
+      <workItem from="1593652693790" duration="668000" />
+      <workItem from="1593653510729" duration="4459000" />
+      <workItem from="1593673741479" duration="138000" />
+      <workItem from="1593692024027" duration="8318000" />
+      <workItem from="1593737818298" duration="14875000" />
+      <workItem from="1593791089920" duration="1159000" />
+      <workItem from="1593843889268" duration="6449000" />
+      <workItem from="1593919141654" duration="3047000" />
+      <workItem from="1593929380806" duration="1023000" />
+      <workItem from="1593930434546" duration="6534000" />
+      <workItem from="1593939886034" duration="12554000" />
+      <workItem from="1594000471319" duration="5250000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="22" key="#Project_Structure" timestamp="1593930286614">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="22" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1593930286614" />
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593930585537">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1593930585537" />
+    <state x="488" y="67" key="#com.intellij.ide.util.MemberChooser" timestamp="1593961597593">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="67" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1593961597593" />
+    <state x="412" y="139" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1593694867343">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="412" y="139" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1593694867343" />
+    <state x="300" y="12" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1593653774074">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="300" y="12" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1366.728@0.0.1366.728" timestamp="1593653774074" />
+    <state x="137" y="279" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1594010169604">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="279" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1366.728@0.0.1366.728" timestamp="1594010169604" />
+    <state x="374" y="118" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1593936723050">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="374" y="118" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1366.728@0.0.1366.728" timestamp="1593936723050" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1594009027205">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1594009027205" />
+    <state width="1323" height="376" key="GridCell.Tab.0.bottom" timestamp="1594015150572">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="376" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1594015150572" />
+    <state width="1323" height="376" key="GridCell.Tab.0.center" timestamp="1594015150572">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="376" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1594015150572" />
+    <state width="1323" height="376" key="GridCell.Tab.0.left" timestamp="1594015150572">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="376" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1594015150572" />
+    <state width="1323" height="376" key="GridCell.Tab.0.right" timestamp="1594015150572">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="376" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1594015150572" />
+    <state width="905" height="445" key="GridCell.Tab.1.bottom" timestamp="1593964056597">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="905" height="445" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1593964056597" />
+    <state width="905" height="445" key="GridCell.Tab.1.center" timestamp="1593964056597">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="905" height="445" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1593964056597" />
+    <state width="905" height="445" key="GridCell.Tab.1.left" timestamp="1593964056597">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="905" height="445" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1593964056597" />
+    <state width="905" height="445" key="GridCell.Tab.1.right" timestamp="1593964056597">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="905" height="445" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1593964056597" />
+    <state x="213" y="18" key="Maven.ArtifactSearchDialog" timestamp="1593932417827">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="213" y="18" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1593932417827" />
+    <state x="317" y="0" key="SettingsEditor" timestamp="1593936736747">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="317" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1593936736747" />
+    <state x="339" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1594000472260">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1594000472260" />
+    <state x="349" y="81" width="667" height="566" key="find.popup" timestamp="1593932834582">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="349" y="81" width="667" height="566" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1593932834582" />
+    <state x="115" y="0" key="new project wizard" timestamp="1593878890504">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="115" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1593878890504" />
+    <state x="339" y="162" width="672" height="677" key="run.anything.popup" timestamp="1593936436680">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" width="672" height="677" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1593936436680" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1593761773808">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1593761773808" />
+    <state x="202" y="0" key="spring file set editor" timestamp="1593928663520">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="202" y="0" key="spring file set editor/0.0.1366.728@0.0.1366.728" timestamp="1593928663520" />
+  </component>
+</project>
